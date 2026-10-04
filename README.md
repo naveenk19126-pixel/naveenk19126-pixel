@@ -1,12 +1,12 @@
 # 💫 About Me:
-Hi, I'm Naveenkumar R 👋<br>Full Stack Developer | MERN Stack Developer | AI Prompt Engineer<br>🎓 B.Tech Information Technology | Pre-final Year<br>📍 Coimbatore, Tamil Nadu, India<br>💼 Open to Internship Opportunities & jobs<br>I am an aspiring Full Stack Developer interested in building responsive web applications, REST APIs, and AI-powered solutions. I enjoy learning new technologies and developing projects that address real-world problems.
+I’m Naveenkumar R, a 3rd-year B.Tech Information Technology student passionate about Full-Stack Development, MERN Stack, and AI Prompt Engineering. I enjoy building practical web applications, solving coding problems, and exploring new technologies.<br><br>I have hands-on experience with Java, JavaScript, React, Node.js, Express.js, MongoDB, Python, SQL, HTML, and CSS. I’m currently looking for internship opportunities where I can apply my skills to real-world projects, learn from experienced teams, and grow as a professional Full-Stack Developer.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/naveenkumar-r-51a769371) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Naveen Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenk19126@gmail.com) 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NAVEENKUMAR R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenk19126@gmail.com) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=naveenk19126-pixel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=naveenk19126-pixel&theme=dark&hide_border=false)<br/>
@@ -19,7 +19,7 @@ Hi, I'm Naveenkumar R 👋<br>Full Stack Developer | MERN Stack Developer | AI P
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naveenk19126-pixel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=naveenk19126-pixel&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=naveenk19126-pixel&icon=0&color=0)](https://visitcount.itsvg.in)
